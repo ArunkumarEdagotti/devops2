@@ -1,1 +1,6 @@
-Add code in to the file
+Add C code in to the file
+#include stdio.h
+void main
+{
+
+}
